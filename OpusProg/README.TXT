@@ -464,7 +464,7 @@ DECOMP.EXE            |- Use this in case you want to manually decompress
                       |        with the COMPRESS/EXPAND format used by
                       |        Windows 3.00 and the Windows 3.00 SDK.
 ----------------------+------------------------------------------------------
-\SYMBOL\*.PF$ *.SF$   |- HP LaserJet Symbol Soft Font files
+\SYMBOL\*.PF$ *.SF$   
 \SYMBOL.W3\*.PF$      |- HP LaserJet Symbol Soft Font files for Windows 3.00
 \SYMBOL\SYMBOL?.FO$   |- Symbol Screen Font files for Windows 2.11
                       |
